@@ -75,6 +75,9 @@ section{
   margin-top: 55px;
   margin-left: 10px;
 }
+.cta {
+  color: #50583B;
+}
 .image-box .heading{
   background: linear-gradient( -75deg, transparent 24%, rgba(255, 215, 35, 0.8) 25%, rgba(255, 215, 35, 0.8) 89%, transparent 90%);
   padding: 15px;
