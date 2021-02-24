@@ -102,11 +102,10 @@ section{
 }
 .image-box .description{
   background: linear-gradient( -75deg, transparent 24%, rgba(255, 215, 35, 0.8) 25%, rgba(255, 215, 35, 0.8) 89%, transparent 90%);
-  width: 395px;
   text-decoration: none;
   display: inline-block;
-  width: 395px;
-  padding-left: 35px;
+  width: 440px;
+  padding: 0 90px 0 50px;
   margin-top: 10px;
   margin-left: -27px;
 }
@@ -325,10 +324,11 @@ padding-right: 0px;
   width: 395px;
   text-decoration: none;
   display: inline-block;
-  width: 250px;
+  width: 280px;
   padding-left: 15px;
   margin-top: 10px;
   margin-left: -15px;
+	padding-right: 45px
 }
 .main-content.main-content2 .title.title2 {
   padding-top: 0px;
